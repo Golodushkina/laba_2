@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Программа является учебной
 int main()
 {
 cout <<"Enter A and B: ";
