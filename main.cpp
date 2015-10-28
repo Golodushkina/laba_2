@@ -7,4 +7,5 @@ int a, b;
 cin >>a >>b;
 cout <<"A+B= " <<(a+b);
 cout <<"\nA-B= " <<(a-b);
+cout <<"\nA/B= " <<(a/b);
 }
